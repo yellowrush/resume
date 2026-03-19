@@ -11,10 +11,10 @@
 
 ## 技术栈（关键词）
 
-- 前端：Vue / Nuxt.js（含 Nuxt3）、TypeScript、JavaScript（ES6+）
-- 状态管理：Vuex / Pinia（或同类方案）
-- 工程化：Webpack / Vite、自动化脚本、CI/CD（按实际补充）、Git
-- 测试：Karma / Mocha（按实际补充）
+- 前端：Vue / Nuxt.js、TypeScript、JavaScript（ES6+）
+- 状态管理：Vuex / Pinia
+- 工程化：Webpack / Vite、自动化脚本、CI/CD、Git
+- 测试：Karma / Mocha
 - 跨端/容器：Cordova（iOS）、Electron（Windows）
 - 可视化/体验：D3.js、Canvas/SVG、性能优化与交互体验
 
