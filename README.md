@@ -79,15 +79,45 @@
 
 ## 项目经历
 
+### MedPeer.inc｜Clinic / 医疗系统项目
+
+期间：**2020/04 ~ 至今**
+
+- 在线问诊、预约管理系统
+- 药物处方管理系统
+- 个人健康管理相关系统
+- Electron Windows App 与药店系统互联优化
+- Nuxt3 升级迁移与适配
+- 技术：Vue / Nuxt.js、Electron、TypeScript、工程化与性能优化
+
+---
+
+### Digital Information Technologies Corporation.｜业务 App / Web 项目
+
+期间：**2017/10 ~ 2019/10**
+
 - 足球比赛视频 LIVE / 数据分析 App
-  - 技术：Vue、Cordova（iOS）
-  - 成果：
-    - 图形化组件
-    - 性能优化
+  - 图形化组件开发与性能优化
+- Web 与 iOS App 页面开发/维护
+- 技术：Vue、Cordova（iOS）、TypeScript
+
+---
+
+### Asia Fusion Technology.｜电商 / 医疗 / 可视化项目
+
+期间：**2013/10 ~ 2017/10**
+
 - NANO·UNIVERSE 电商网站（Web）
   - BackBone 组件维护、购物车模块开发
 - お薬手帳プラス（iOS/Android）
   - Angular4 相关功能与图形化组件开发/维护
-- Genostar Inc. 网站开发（人负责项目管理，AI主导设计，开发）
-  - https://genostar.jp/
-  - 项目地址：https://github.com/yellowrush/genostar-lp
+- 后台数据可视化组件/库开发
+- 技术：React / React Native、Angular4、JavaScript、D3.js、Canvas/SVG
+
+---
+
+### 个人项目｜Genostar Inc. 网站开发
+
+- 项目主页：https://genostar.jp/
+- 项目地址：https://github.com/yellowrush/genostar-lp
+- 角色：项目管理、设计协作、前端开发
