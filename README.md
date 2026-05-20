@@ -80,8 +80,14 @@
 ## 项目经历
 
 - 足球比赛视频 LIVE / 数据分析 App
-  - 技术：Vue、Cordova（iOS）、图形化组件、性能优化
+  - 技术：Vue、Cordova（iOS）
+  - 成果：
+    - 图形化组件
+    - 性能优化
 - NANO·UNIVERSE 电商网站（Web）
   - BackBone 组件维护、购物车模块开发
 - お薬手帳プラス（iOS/Android）
   - Angular4 相关功能与图形化组件开发/维护
+- Genostar Inc. 网站开发（人负责项目管理，AI主导设计，开发）
+  - https://genostar.jp/
+  - 项目地址：https://github.com/yellowrush/genostar-lp
