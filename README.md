@@ -6,6 +6,7 @@
   - 华南理工大学｜软件工程（学校交流培训）
 - GitHub：<https://github.com/yellowrush>
 - 兴趣：游戏、动漫、篮球、跑步、旅行
+- 语言：英语、日语
 
 ---
 
@@ -17,7 +18,7 @@
 - 测试：Jest / Vitest
 - 跨端/容器：Cordova（iOS）、Electron（Windows）
 - 可视化/体验：D3.js、Canvas/SVG、性能优化与交互体验
-- AI: Claude Code, Copilot
+- AI: Claude Code、Copilot
 
 ---
 
