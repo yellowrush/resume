@@ -163,7 +163,6 @@ h2 {
     padding: 0;
   }
 
-  .card,
   .timeline-item,
   .tag-groups div,
   .projects article {
@@ -179,6 +178,11 @@ h2 {
   h2,
   h3,
   h4 {
+    break-after: avoid;
+    page-break-after: avoid;
+  }
+
+  .timeline-header {
     break-after: avoid;
     page-break-after: avoid;
   }
