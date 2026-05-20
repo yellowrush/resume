@@ -24,7 +24,8 @@
 
 ## 工作经历
 
-### MedPeer.inc｜前端开发工程师（Clinic / 医疗方向）
+### MedPeer.inc （日本 东京）
+### 职位：前端开发工程师（Clinic / 医疗方向）
 
 官站：https://medpeer.co.jp/
 
@@ -46,7 +47,8 @@
 
 ---
 
-### Digital Information Technologies Corporation.｜前端工程师（iOS）
+### Digital Information Technologies Corporation. （日本 大版）
+### 职位：前端工程师（iOS）
 
 官网：https://www.ditgroup.jp/
 
@@ -58,7 +60,8 @@
 
 ---
 
-### Asia Fusion Technology.｜前端工程师
+### Asia Fusion Technology. （菲律宾 马尼拉）
+### 职位：前端工程师
 
 期间：**2013/10 ~ 2017/10**
 
@@ -69,7 +72,8 @@
 
 ---
 
-### 广东叁六网络科技有限公司｜网页设计师（实习）
+### 广东叁六网络科技有限公司 （广东 广州）
+### 职位：网页设计师（实习）
 
 期间：**2013/07 ~ 2013/08**
 
