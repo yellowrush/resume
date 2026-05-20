@@ -88,6 +88,6 @@
   - BackBone 组件维护、购物车模块开发
 - お薬手帳プラス（iOS/Android）
   - Angular4 相关功能与图形化组件开发/维护
-- Genostar Inc. 网站开发（人负责项目管理，AI主导设计，开发）
+- Genostar Inc. 网站开发（本人负责项目管理，AI主导设计、开发）
   - https://genostar.jp/
   - 项目地址：https://github.com/yellowrush/genostar-lp
