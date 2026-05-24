@@ -4,9 +4,9 @@
 - 学历：韶关学院｜计算机科学与技术（本科，学士学位）
   - 计算机图形图像化/动漫工程（选修）
   - 华南理工大学｜软件工程（学校交流培训）
-- GitHub：<https://github.com/yellowrush>
 - 兴趣：游戏、动漫、篮球、跑步、旅行
 - 语言：英语、日语
+- GitHub：<https://github.com/yellowrush>
 
 ---
 
