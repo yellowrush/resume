@@ -220,12 +220,9 @@
     <button class="print-button" type="button" aria-label="打印 PDF">打印 PDF</button>
     <script>
       const printButton = document.querySelector(".print-button");
-
-      if (printButton) {
-        printButton.addEventListener("click", () => {
-          window.print();
-        });
-      }
+      printButton.addEventListener("click", () => {
+        window.print();
+      });
     </script>
   </body>
 </html>
