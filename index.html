@@ -217,5 +217,13 @@
         </div>
       </section>
     </main>
+    <button type="button" class="print-button" data-print-resume aria-label="打印当前简历为 PDF">
+      打印 PDF
+    </button>
+    <script>
+      document.querySelector("[data-print-resume]")?.addEventListener("click", () => {
+        window.print();
+      });
+    </script>
   </body>
 </html>
