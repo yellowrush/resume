@@ -47,16 +47,21 @@
 
 ---
 
-### Digital Information Technologies Corporation. （日本 大版）
-### 职位：前端工程师（iOS）
+### 修曼教育集团 GIT（日本）
 
-官网：https://www.ditgroup.jp/
+官网：https://gitcareer.resocia.jp/
 
 期间：**2017/10 ~ 2019/10**
 
+驻外企业： Digital Information Technologies Corporation. （日本 大版）
+
+#### 职位：前端工程师（iOS）
+
+官网：https://www.ditgroup.jp/
+
 - Web 与 iOS App 开发/维护
 - 页面兼容与性能优化
-- 技术：Vue、Cordova（iOS）、TypeScript
+- 技术：Vue2、Cordova（iOS）、TypeScript
 
 ---
 
