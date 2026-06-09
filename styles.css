@@ -262,7 +262,7 @@ h3 {
   body {
     background: #fff;
     font-size: 10pt;
-    line-height: 1.35;
+    line-height: 1.4;
   }
 
   .resume {
@@ -337,7 +337,7 @@ h3 {
   .experience-item li + li,
   .project-item li + li,
   .extra-info li + li {
-    margin-top: 3px;
+    margin-top: 4px;
   }
 
   h2,
