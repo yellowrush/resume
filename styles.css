@@ -50,15 +50,6 @@ a:hover {
   margin-top: 18px;
 }
 
-.eyebrow {
-  margin: 0 0 8px;
-  color: var(--primary);
-  font-size: 0.85rem;
-  font-weight: 700;
-  letter-spacing: 0.06em;
-  text-transform: uppercase;
-}
-
 h1,
 h2,
 h3 {
@@ -67,13 +58,15 @@ h3 {
 }
 
 h1 {
-  margin-bottom: 12px;
-  font-size: clamp(2rem, 4vw, 2.8rem);
+  margin-bottom: 16px;
+  font-size: clamp(1.6rem, 3.5vw, 2.4rem);
 }
 
 h2 {
   margin-bottom: 16px;
   font-size: 1.5rem;
+  padding-bottom: 8px;
+  border-bottom: 2px solid var(--border);
 }
 
 h3 {
@@ -81,13 +74,8 @@ h3 {
   font-size: 1.05rem;
 }
 
-.intro {
-  margin: 0;
-  color: var(--muted);
-}
-
 .quick-info {
-  margin: 18px 0 0;
+  margin: 0 0 20px;
   padding: 0;
   list-style: none;
   display: grid;
@@ -103,31 +91,56 @@ h3 {
   background: var(--soft);
 }
 
-.highlights,
-.skill-grid,
-.projects {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-  gap: 12px;
+.profile {
+  margin-top: 4px;
 }
 
-.highlights article,
-.skill-grid article,
-.projects article {
+.profile h3 {
+  margin-bottom: 10px;
+}
+
+.profile p {
+  margin: 0 0 10px;
+  color: var(--muted);
+}
+
+.profile p:last-child {
+  margin-bottom: 0;
+}
+
+/* 技术栈 */
+.skill-section {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.skill-group {
   padding: 16px;
   border: 1px solid var(--border);
   border-radius: 16px;
   background: var(--soft);
 }
 
-.highlights p,
-.skill-grid p,
-.projects p,
-.duration {
+.skill-group h3 {
+  margin-bottom: 10px;
+}
+
+.skill-group ul {
+  margin: 0;
+  padding-left: 20px;
+}
+
+.skill-group li + li {
+  margin-top: 4px;
+}
+
+.skill-group p {
   margin: 0;
   color: var(--muted);
 }
 
+/* 工作经历 */
 .experience-item + .experience-item {
   margin-top: 18px;
   padding-top: 18px;
@@ -138,6 +151,11 @@ h3 {
   margin-bottom: 8px;
 }
 
+.experience-item > p {
+  margin: 0 0 8px;
+  color: var(--muted);
+}
+
 .experience-item ul {
   margin: 0;
   padding-left: 20px;
@@ -145,6 +163,46 @@ h3 {
 
 .experience-item li + li {
   margin-top: 6px;
+}
+
+.duration {
+  margin: 4px 0 0;
+  color: var(--muted);
+}
+
+/* 项目经历 */
+.project-item + .project-item {
+  margin-top: 18px;
+  padding-top: 18px;
+  border-top: 1px solid var(--border);
+}
+
+.project-item h3 {
+  margin-bottom: 10px;
+}
+
+.project-item ul {
+  margin: 0;
+  padding-left: 20px;
+}
+
+.project-item li + li {
+  margin-top: 6px;
+}
+
+.project-item ul ul {
+  margin-top: 4px;
+  padding-left: 20px;
+}
+
+/* 补充信息 */
+.extra-info {
+  margin: 0;
+  padding-left: 20px;
+}
+
+.extra-info li + li {
+  margin-top: 8px;
 }
 
 .print-button {
@@ -226,15 +284,7 @@ h3 {
     margin-top: 10px;
   }
 
-  .highlights,
-  .skill-grid,
-  .projects {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-  }
-
-  .highlights article,
-  .skill-grid article,
-  .projects article,
+  .skill-group,
   .quick-info li {
     background: transparent;
     border-color: #cbd5e1;
@@ -242,7 +292,8 @@ h3 {
 
   h2,
   h3,
-  .experience-item header {
+  .experience-item header,
+  .project-item h3 {
     break-after: avoid;
     page-break-after: avoid;
   }
@@ -251,3 +302,4 @@ h3 {
     display: none !important;
   }
 }
+
