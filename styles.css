@@ -98,6 +98,12 @@ h3 {
   color: var(--muted);
 }
 
+@media (max-width: 980px) and (min-width: 721px) {
+  .quick-info {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
 .profile {
   margin-top: 20px;
 }
