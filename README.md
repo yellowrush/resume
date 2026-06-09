@@ -15,7 +15,7 @@
 
 - 前端：Vue / Nuxt.js、React（自学）、TypeScript、JavaScript（ES6+）
 - 后端：Express（自学）
-- AI: Claude Code（开发）、Copilot（项目管理）、Notion AI（开发文档）、[Devin AI](https://devin.ai/)（开发，自动化）
+- AI: Claude Code（开发）、Copilot（项目管理）、Notion AI（会议记录，开发文档等）、[Devin AI](https://devin.ai/)（开发，自动化）
 - 状态管理：Vuex / Pinia
 - 工程化：Webpack / Vite、自动化脚本、CI/CD、Git
 - 测试：Jest、Vitest
