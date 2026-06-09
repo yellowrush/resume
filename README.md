@@ -1,115 +1,112 @@
 # 黄冲（Tom）｜ 前端工程师 | 10+年海外从业经验 | 对日医疗&AI赋能开发
 
-- 学历：韶关学院｜计算机科学与技术（本科，学士学位）| 计算机图形图像化/动漫工程（选修）| 华南理工大学 软件工程（学校交流培训）
-- 兴趣：游戏、篮球、动漫
-- 语言：英语（日常 & 技术沟通无障碍）、日语（商务会话流利，可独立对接日本客户、阅读 / 编写日文技术文档）
-- 出生：1990/04
+## 基础信息
+
+- 出生年月：1990年04月
+- 学历：韶关学院 主修计算机科学与技术 本科（学士学位）
+  选修计算机图形图像化/动漫工程；参与华南理工大学 软件工程 交流培训
+- 语言：日语（商务会话流利，可独立对接日方团队、编写日文技术文档）；英语（技术沟通无障碍）
 - GitHub：<https://github.com/yellowrush>
-- 简介：深耕日本东京医疗 IT、服务日本诊所 / 医院 / 药局系统。熟悉Vue技术栈，自学React和Nodejs，现阶段专注于学习AI。海外团队协作、敏捷推进、文档 / 流程优化、持续学习
+- 所在地：日本 东京
+
+### 个人简介
+
+本人拥有十余年前端开发经验，现任职于东京医疗IT企业，专注日本诊所、医院、药局全场景医疗系统研发。熟练掌握 Vue/Nuxt.js 技术栈，具备 Web、Electron 桌面端、Cordova 移动端全跨端开发能力，擅长数据可视化、前端工程化与性能优化。
+
+工作中深度落地各类AI研发工具，将AI融入编码、文档编写、项目管理全流程，持续提升团队研发效率。具备菲律宾、日本大阪、东京多地海外团队协作经验，熟悉海外敏捷开发流程与日式项目规范。
+
+本人注重用户体验与代码质量，团队协作意识强，乐于技术分享，保持持续学习的习惯，深耕前端技术与行业业务结合。
 
 ---
 
-## 技术栈（关键词）
+## 二、技术栈（按熟练度&使用场景分类）
 
-- 前端：Vue / Nuxt.js、React（自学）、TypeScript、JavaScript（ES6+）
-- 后端：Express（自学）
-- AI: Claude Code（开发）、Copilot（项目管理）、Notion AI（会议记录，开发文档等）、[Devin AI](https://devin.ai/)（开发，自动化）
-- 状态管理：Vuex / Pinia
-- 工程化：Webpack / Vite、自动化脚本、CI/CD、Git
-- 测试：Jest、Vitest
-- 跨端/容器：Cordova（iOS）、Electron（Windows）
-- 可视化/体验：D3.js、Canvas/SVG、性能优化与交互体验
+### 🔹 精通（主力技术，日常核心使用）
+前端框架：Vue2/Vue3、Nuxt.js、TypeScript、JavaScript(ES6+)
+状态管理：Pinia、Vuex
+工程化：Git、CI/CD、自动化脚本
+测试框架：Jest、Vitest
+构建工具：Vite、Webpack
 
----
+### 🔹 熟练（项目高频使用）
+数据可视化：D3.js、Canvas、SVG
+跨端应用：Electron(Windows)、Cordova(iOS)
+业务框架：BackBone、Angular4
+设计工具：PhotoShop(PS)，Illustrator(AI)
 
-## 工作经历
+### 🔹 自学/储备（持续深耕）
+前端：React、React Native
+后端：Express、Node.js
 
-### MedPeer.inc （日本 东京）
-### 职位：前端开发工程师（Clinic / 医疗方向）
+### 🔹 AI赋能工具（落地场景）
+- Claude Code / [Devin AI](https://devin.ai/)：辅助业务代码开发、自动化脚本编写，提升研发效率
+- GitHub Copilot：日常编码提示、代码纠错，优化开发节奏
+- Notion AI：会议纪要、日文 / 中文开发文档自动生成，简化流程
 
-官站：https://medpeer.co.jp/
-
-期间：**2020/04 ~ 至今**
-
-- 方向：面向 Clinic、医院、药局的医疗系统开发与维护
-  - 在线问诊、预约管理系统
-  - 药物处方管理系统
-  - 个人健康管理相关系统
-- 技术：Vue / Nuxt.js、Claude Code、状态管理、构建与自动化、性能优化
-
-
-**代表性成果**
-
-- Electron Windows App 与药店系统互联的性能/稳定性优化（对接流程与体验改进）
-- 推进/参与 Nuxt3 升级（迁移与适配、工程化调整、风险控制与回归）
-- 使用 Notion 推进敏捷开发（scrum）的任务拆解、排期与研发过程管理
-- Notion AI 的推进简化会议流程和开发文档制作流程
+### 🔹 软技能&工作模式
+敏捷开发(Scrum)、项目任务拆解与排期、中日双语技术文档编写、海外跨团队协作
 
 ---
 
-### 修曼教育集团 GIT（日本）
+## 三、工作经历
+### MedPeer.inc（日本 东京） | 前端开发工程师（医疗方向）
+**任职时间**：2020/04 ~ 至今
+负责面向日本诊所、综合医院、线下药局的B端医疗系统全栈前端研发与维护，覆盖在线问诊、预约管理、药物处方、个人健康管理四大核心业务线。
+- 主导基于 Vue/Nuxt.js 完成医疗Web系统迭代，结合状态管理、工程化方案保障系统稳定运行；
+- 负责 Electron 桌面应用与线下药店业务系统对接，完成性能、交互、稳定性全维度优化；
+- 牵头团队完成项目从 Nuxt2 至 Nuxt3 的版本迁移与适配，统筹工程化改造、风险把控与回归测试，降低长期维护成本；
+- 落地 Notion + Scrum 敏捷开发体系，完成任务拆解、进度排期与团队管控；依托 Notion AI 自动化处理会议记录、开发文档，大幅简化办公流程。
 
-官网：https://gitcareer.resocia.jp/
+### 修曼教育集团 GIT（日本 大阪） | 前端工程师（iOS方向）
+**驻外企业**：Digital Information Technologies Corporation.
+**任职时间**：2017/10 ~ 2019/10
+负责对日Web端及iOS混合App开发维护，聚焦移动端兼容适配与体验优化：
+- 使用 Vue2 + Cordova 开发iOS端混合应用，完成多机型、多系统版本兼容适配；
+- 主导页面性能调优、样式重构，解决移动端卡顿、布局错乱等线上问题；
+- 配合日方产品团队完成需求对接、迭代开发与线上问题修复。
 
-期间：**2017/10 ~ 2019/10**
+### Asia Fusion Technology（菲律宾 马尼拉） | 前端工程师
+**任职时间**：2013/10 ~ 2017/10
+担任全能前端开发，负责企业官网、后台管理系统、数据可视化模块开发：
+- 独立完成网站、移动端App页面开发、浏览器兼容与性能优化；
+- 基于 D3.js/Canvas/SVG 自研数据可视化组件库，支撑后台数据分析场景；
+- 运用 React、Angular4、PHP 等技术完成后台管理系统功能迭代与页面改版。
 
-驻外企业： Digital Information Technologies Corporation. （日本 大版）
-
-#### 职位：前端工程师（iOS）
-
-官网：https://www.ditgroup.jp/
-
-- Web 与 iOS App 开发/维护
-- 页面兼容与性能优化
-- 技术：Vue2、Cordova（iOS）、TypeScript
-
+### 广东叁六网络科技有限公司（广东 广州） | 网页设计师（实习）
+**任职时间**：2013/07 ~ 2013/08
+负责企业官网网页设计，使用PS，AI等工具完成页面设计到切图等前端开发前的准备工作，
+参与企业官网搭建、PHP后台管理页面改版，使用 HTML5/CSS3/JavaScript/jQuery 完成基础页面开发
 ---
 
-### Asia Fusion Technology. （菲律宾 马尼拉）
-### 职位：前端工程师
+## 四、项目经历
 
-期间：**2013/10 ~ 2017/10**
+项目经历
+### 1. お薬手帳プラス（药品手账APP | 日本医疗C端应用）
+- 平台：iOS / Android | 核心技术：Angular4
+- APP：
+  - IOS：https://apps.apple.com/jp/app/%E3%81%8A%E8%96%AC%E6%89%8B%E5%B8%B3%E3%83%97%E3%83%A9%E3%82%B9-%E6%97%A5%E6%9C%AC%E8%AA%BF%E5%89%A4%E3%81%AE%E8%96%AC%E5%B1%80%E3%81%B8%E5%87%A6%E6%96%B9%E3%81%9B%E3%82%93%E3%81%AE%E4%BA%8B%E5%89%8D%E9%80%81%E4%BF%A1%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B/id947740067  
+  - Android：https://play.google.com/store/apps/details?id=jp.co.nicho.jpokusuri&hl=ja
+- 项目背景：日本主流个人健康&药品管理APP，面向普通用户记录用药、健康数据；
+- 负责内容：独立开发并维护健康数据可视化模块，基于图形组件实现用药记录、体检数据可视化展示；
+- 项目成果：完成多套可视化交互组件封装，适配移动端不同屏幕尺寸，保障长期稳定运行。
 
-- 网站与 App 页面设计/开发、兼容与性能优化
-- 后台管理系统页面开发/优化
-- 后台数据可视化组件/库开发
-- 技术：React / React Native、Angular4、JavaScript、PHP、D3.js、Canvas/SVG
+### 2. 足球比赛视频直播 & 数据分析平台
+- 官网：https://fl-ux.co/ | 核心技术：Vue、Cordova(iOS)
+- 项目背景：海外体育赛事直播+数据统计平台，主打赛事可视化分析；
+- 负责内容：开发赛事数据图形化组件，完成全页面性能优化与移动端适配；
+- 项目成果：优化资源加载逻辑，解决直播页面卡顿问题，提升移动端用户观看体验。
 
----
+### 3. NANO·UNIVERSE 日本电商网站
+- 官网：https://store.nanouniverse.jp/ | 核心技术：BackBone
+- 负责内容：独立完成购物车模块功能开发，修复线上交互BUG、结算逻辑异常等问题；
+- 项目成果：保障购物车核心流程稳定，优化交互逻辑，提升下单转化体验。
 
-### 广东叁六网络科技有限公司 （广东 广州）
-### 职位：网页设计师（实习）
+### 4. Genostar Inc. 企业官网（开源项目）
+- 官网：https://genostar.jp/ | GitHub：https://github.com/yellowrush/genostar-lp
+- 角色：项目负责人 + 前端开发
+- 负责内容：统筹项目全流程管理，结合AI工具完成视觉设计辅助、代码开发、文档输出；
+- 项目成果：全程运用AI工具提效，高效完成官网页面开发与上线，代码已开源维护。
 
-期间：**2013/07 ~ 2013/08**
-
-- 企业网站设计/搭建
-- PHP 后台系统管理/页面改版
-- 技术：PHP、MySQL、HTML5、CSS3、JavaScript、jQuery
-
----
-
-## 项目经历
-
-- 足球比赛视频 LIVE / 数据分析 
-  - 官网：https://fl-ux.co/
-  - 技术：Vue、Cordova（iOS）
-  - 成果：
-    - 图形化组件
-    - 性能优化
-- NANO·UNIVERSE 电商网站（Web）
-  - 官网：https://store.nanouniverse.jp/
-  - 技术：BackBone
-  - 成果：
-    - 购物车页面BUG修复
-    - 购物车模块开发
-- お薬手帳プラス（iOS/Android）
-  - APP：
-    - IOS：https://apps.apple.com/jp/app/%E3%81%8A%E8%96%AC%E6%89%8B%E5%B8%B3%E3%83%97%E3%83%A9%E3%82%B9-%E6%97%A5%E6%9C%AC%E8%AA%BF%E5%89%A4%E3%81%AE%E8%96%AC%E5%B1%80%E3%81%B8%E5%87%A6%E6%96%B9%E3%81%9B%E3%82%93%E3%81%AE%E4%BA%8B%E5%89%8D%E9%80%81%E4%BF%A1%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B/id947740067  
-    - Android：https://play.google.com/store/apps/details?id=jp.co.nicho.jpokusuri&hl=ja
-  - 技术：Angular4
-  - 成果：
-    - 健康数据的图形化组件开发/维护
-- Genostar Inc. 网站开发
-  - https://genostar.jp/
-  - 项目地址：https://github.com/yellowrush/genostar-lp
-  - 成果：本人负责项目管理，AI 主导设计、开发
+## 五、补充信息
+- 兴趣爱好：篮球、动漫、游戏，业余持续研究前端、AI相关技术；
+- 职业特质：责任心强、擅长跨文化团队协作，乐于技术分享，保持长期技术学习。
