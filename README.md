@@ -7,19 +7,20 @@
 - 兴趣：游戏、篮球、动漫
 - 语言：英语、日语
 - GitHub：<https://github.com/yellowrush>
-- 简介：目前在东京从事医疗方面的IT企业，主要致力于前端Web，Electron的开发，熟悉Vue，自学React和Nodejs后端方面的开发，现阶段专注学习AI，主要在辅助开发还有一些项目管理东西，喜欢折腾，对于用户体验有一定的追求。闲暇时间喜欢玩游戏，还有打篮球
+- 简介：目前在东京从事医疗方面的IT企业，主要致力于前端Web，Electron的开发，熟悉Vue，自学React和Nodejs，现阶段专注于学习AI，主要在辅助开发还有一些项目管理东西。喜欢研究技术，对于用户体验有一定的追求，有很强的团队意识。闲暇时间喜欢玩游戏，打篮球。
 
 ---
 
 ## 技术栈（关键词）
 
-- 前端：Vue / Nuxt.js、TypeScript、JavaScript（ES6+）
+- 前端：Vue / Nuxt.js、React（自学）、TypeScript、JavaScript（ES6+）
+- 后端：Express（自学）
+- AI: Claude Code（开发）、Copilot（项目管理）、Notion AI（开发文档）、[Devin AI](https://devin.ai/)（开发，自动化）
 - 状态管理：Vuex / Pinia
 - 工程化：Webpack / Vite、自动化脚本、CI/CD、Git
-- 测试：Jest / Vitest
+- 测试：Jest、Vitest
 - 跨端/容器：Cordova（iOS）、Electron（Windows）
 - 可视化/体验：D3.js、Canvas/SVG、性能优化与交互体验
-- AI: Claude Code、Copilot
 
 ---
 
