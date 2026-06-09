@@ -247,7 +247,6 @@ h3 {
     page-break-after: avoid;
   }
 
-  .no-print,
   .print-button {
     display: none !important;
   }
