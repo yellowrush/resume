@@ -1,5 +1,12 @@
 # 黄冲（Tom）｜ 前端工程师 | 10+年海外从业经验 | 对日医疗&AI赋能开发
 
+## 首页改版对比（PR素材）
+
+| 端类型 | 修改前 | 修改后 |
+| --- | --- | --- |
+| Desktop | ![before-desktop](./docs/comparison/before-desktop.png) | ![after-desktop](./docs/comparison/after-desktop.png) |
+| Mobile | ![before-mobile](./docs/comparison/before-mobile.png) | ![after-mobile](./docs/comparison/after-mobile.png) |
+
 ## 一、基础信息
 
 - 出生年月：1990年04月
