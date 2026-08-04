@@ -110,7 +110,7 @@
 - 负责内容：统筹项目全流程管理，结合AI工具完成视觉设计辅助(ChatGPT)、代码开发(Copilot)、文档输出(Copilot)；
 - 项目成果：全程运用AI工具提效，高效完成官网页面开发与上线，代码已开源维护。
 
-### 5. Drag-Up 旋转解谜游戏（开源项目）
+### 5. 拖了个喵 · Drag-Up 旋转解谜游戏（开源项目）
 - GitHub：https://github.com/yellowrush/drag-up | 核心技术：uni-app X（Vue 3）、Canvas 2D
 - 平台：H5（Web 浏览器）+ 微信小程序
 - 项目背景：基于 uni-app X 开发的旋转解谜游戏，重新实现经典旋转网格玩法；结合 AI Agent 自动处理子女意见反馈，自动生成 Issue 并驱动 AI 开发；
