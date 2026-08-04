@@ -113,8 +113,8 @@
 ### 5. 拖了个喵 · Drag-Up 旋转解谜游戏（开源项目）
 - GitHub：https://github.com/yellowrush/drag-up | 核心技术：uni-app X（Vue 3）、Canvas 2D
 - 平台：H5（Web 浏览器）+ 微信小程序
-- 项目背景：基于 uni-app X 开发的旋转解谜游戏，重新实现经典旋转网格玩法；结合 AI Agent 自动处理子女意见反馈，自动生成 Issue 并驱动 AI 开发；
-- 角色：项目策划 + 前端开发
+- 项目背景：基于 uni-app X 开发的旋转解谜游戏，重新实现经典旋转网格玩法；结合 AI Agent 自动收集小朋友的游戏意见反馈，自动生成 Issue 并驱动 AI 开发；
+- 角色：项目策划 + 前端开发 + 后端开发
 - 负责内容：游戏引擎设计与实现，多类型旋转轨道（Free/Fixed/Pivot/Rotate）逻辑开发，Canvas 渲染与跨平台适配；
 - 项目成果：完成 H5 与微信小程序双端发布，探索 AI Agent 驱动开发新流程。
 
